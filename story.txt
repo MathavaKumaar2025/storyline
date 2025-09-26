@@ -1,1 +1,3 @@
-my name is mathava im in forkthis
+my name is mathava 
+im attending forkthis workshop,
+learning about git and github.
